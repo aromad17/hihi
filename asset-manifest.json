@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hihi/static/css/main.715d5758.css",
+    "main.js": "/hihi/static/js/main.a1263e9f.js",
+    "index.html": "/hihi/index.html",
+    "main.715d5758.css.map": "/hihi/static/css/main.715d5758.css.map",
+    "main.a1263e9f.js.map": "/hihi/static/js/main.a1263e9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.715d5758.css",
+    "static/js/main.a1263e9f.js"
+  ]
+}
